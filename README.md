@@ -4,6 +4,9 @@ A modern movie search and favorites app built with **React** and **Redux Toolkit
 
 ---
 
+> 🌐 Live Demo: [movie-explorer-one-khaki.vercel.app](https://movie-explorer-one-khaki.vercel.app)
+
+
 ## ✨ Features
 
 - 🔎 Search movies by title
